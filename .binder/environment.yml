@@ -1,0 +1,9 @@
+name: micromodulo-analizando-datos-censales-con-pandas
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - altair
+  - pip
+  - pip:
+    - arrow
